@@ -16,7 +16,7 @@ int main (void)
 
       printf("minimum %f \n", minimum (y, k));
 
-}
+} 
 
 
 float minimum (int n, float s[])
